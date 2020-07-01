@@ -1,6 +1,6 @@
 PositionalIsomeRs
 =================
-Produces plots to help positively identify positional isomers in post-transcriptionally 
+An R package that produces plots to help positively identify positional isomers in post-transcriptionally 
 modified (PTM) ribonucleosides (RNs).
 
 Scans in the specified MS3 files are filtered by the MS1 full scan parameters. 
